@@ -3,7 +3,7 @@ title: "[Machine-Hack] Ode To Code: Predicting Weather Using Alien Fruit Propert
 layout: post
 ---
 
-![Machine-Hack](/assets/images/ode_to_code.jpg)
+![Machine-Hack](https://github.com/RakeshJarupula/Blogs/assets/images/ode_to_code.jpg)
 
 Hi There👋, in this blog I will be sharing my **6th place solution**🏆 to a hackathon hosted at [Machine Hack](https://machinehack.com/) called [**Ode To Code: Predicting Weather Using Alien Fruit Properties**](https://machinehack.com/hackathon/odetocode_predicting_weather_using_alien_fruit_properties/overview)🍊🍋. 
 
